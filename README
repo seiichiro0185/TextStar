@@ -1,3 +1,6 @@
 This python module is designed to drive a TextStar serial display from Cats Whiskers Technologies. 
 
 See the integrated pydoc documentation for usage information and examples.
+This module needs the pyserial package to be available.
+
+The code was tested using python 3.2 on a Raspberry Pi. It may or may not work on other versions of python.
